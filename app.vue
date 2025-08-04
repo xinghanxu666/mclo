@@ -94,7 +94,7 @@ export default {
     const responseOutput = ref('');
     const copyButtonText = ref('复制链接');
     const openBlog = () => {
-  window.open('https://ideafox.top')
+  window.open('https://simpfun.tx648.cn')
 };
     
     const nextStep = () => {
