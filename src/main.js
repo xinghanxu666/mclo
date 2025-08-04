@@ -1,10 +1,6 @@
 import { createApp } from 'vue'
 import App from './App.vue'
-
+// 导入element-plus
 import ElementPlus from 'element-plus'
 import 'element-plus/dist/index.css'
-
-// 使用Element Plus
-createApp(App)
-  .use(ElementPlus)
-  .mount('#app')
+createApp(App).use(ElementPlus).mount('#app')
